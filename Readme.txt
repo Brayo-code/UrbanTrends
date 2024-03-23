@@ -1,1 +1,1 @@
-this is a doc about urbantrend web
+this is a doc about urbantrend web.
